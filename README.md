@@ -84,24 +84,21 @@ optimizer = optim.Adam(model.parameters(),lr=0.01)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![image](https://github.com/user-attachments/assets/5ca2592c-8684-4cf4-98bf-324e85bc3b0e)
 
 ## OUTPUT
 
-
-
 ### Confusion Matrix
-
-Include confusion matrix here
+![image](https://github.com/user-attachments/assets/c7b71b9a-5df4-4c20-b9aa-2aa4d6878246)
 
 ### Classification Report
-
-Include Classification Report here
-
+![image](https://github.com/user-attachments/assets/4b7cdb3b-5228-45b1-a9ca-42daada4f9ba)
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/user-attachments/assets/b1f14371-2a37-4ccb-a4d3-14df62afa94a)
 
 ## RESULT
-Include your result here
+
+Thus the neural network classification model for the given dataset has been executed successfully.
+
